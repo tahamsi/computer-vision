@@ -9,8 +9,8 @@ With the "computer-vision" repository, you'll be equipped to tackle exciting pro
 Here's the repository's structure:
 
 * Week 6: Introduction to Machine Learning
-* Week 7: Image Representation, Image Classification, and Image Annotation
-* Week 8: Object Detection and Transfer Learning
+* Week 7: Image Representation, Image Classification, Data Augmentation, and Transfer Learning 
+* Week 8: Object Detection and Image Annotation
 * Week 9: Semantic Segmentation and Foundation Models
 * Week 10: Object Tracking and Advanced Topics
 
