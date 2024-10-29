@@ -2,4 +2,4 @@ This week, we will explore image classification using deep learning models. Firs
 
 Feel free to experiment with the models.
 
-![week-6](https://github.com/tahamsi/computer-vision/blob/main/week-6/machine%20learning.webp)
+![week-6](https://github.com/tahamsi/computer-vision/blob/main/images/image_classification.webp)
