@@ -31,8 +31,10 @@ This will clone the entire repository to your computer.
 ```console
 git pull
 ```
-Now, you are fully prepared to delve into the repository and commence running the examples. Within the repository, you will discover comprehensive instructions for executing each example, along with the required data and models.
+You are fully prepared to delve into the repository and run the examples. Within the repository, you will discover comprehensive instructions for executing each instance and the required data and models.
 
 Upon cloning this repository, a curated assortment of meticulously documented machine vision examples will be at your disposal, serving as a solid foundation for your ongoing experimentation and development. Whether you are an experienced machine learning practitioner or a novice in the field, this repository offers a valuable resource for delving into the captivating realm of computer vision.
+
+Note: You are welcome to use the code in this repository under the MIT License. However, for commercial use, be sure to consider the original licenses of any libraries included.
 
 ![image](https://github.com/tahamsi/Deep-Learning/assets/11609676/95cf4385-4f64-4de8-a7e3-98e7f61a6cd5)
